@@ -1,8 +1,13 @@
 """შექმენით პითონის ფაილი და დაპრინტეთ თქვენი სახელი,
 გვარი და ასაკი, ასევე ოჯახის წევრების სახელი, გვარი და ასაკი"""
 
-family="ana lortkipanidze 11 wlis,natia azmaiparashvili 33 wlis,niko lortkipanidze 34 wlis,dimitri lortkipanidze 14 wlis"
-print(family)
+me="ana lortkipanidze 11 wlis,"
+deda="natia azmaiparashvili 33 wlis,"
+mama="nika lortkipanidze 34 wlis,"
+dzma="dimitri lortkimanidze 14 wlis,"
+print(me + " " + deda)
+print(mama + " " + dzma)
+
 
 
 
